@@ -14,7 +14,6 @@
 ### 💼 Mi Experiencia
 
 - **Investigador Científico en SENNOVA**: Analicé bases de datos para apoyar el crecimiento de empresas y facilitar su exportación mediante estrategias de marketing, logística y comercio internacional.
-- **Data Scientist y Software Developer (2023-2024)**: Lideré investigaciones científicas aplicando data science, y desarrollé software eficiente utilizando herramientas de programación e inteligencia artificial para acelerar procesos.
 - **Coordinador Logístico en Banquetes San Esteban y Colonia Real**: Apliqué análisis de datos en logística para optimizar operaciones y mejorar la eficiencia.
 
 ### 🎓 Mi Formación
