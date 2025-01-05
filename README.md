@@ -38,8 +38,8 @@ Lo que más me apasiona es la oportunidad de **resolver problemas reales** a tra
 Si tienes alguna oportunidad de trabajo o simplemente quieres hablar sobre tecnología, innovación o ciencia de datos, **¡no dudes en contactarme!** Estoy abierto a proyectos desafiantes y oportunidades que me permitan seguir creciendo profesionalmente.
 
 Puedes contactarme a través de:
-- **Correo**: [tu_correo@example.com]
-- **LinkedIn**: [tu_linkedin]
+- **Correo**: [robinsonquinteromesa@gmail.com]
+- **LinkedIn**: [linkedin.com/in/robinson-quintero-mesa-49b73b242]
 
 ---
 
