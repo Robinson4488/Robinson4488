@@ -37,7 +37,7 @@ Actualmente me enfoco en el mundo **freelancer**, ofreciendo desarrollo de **apl
 
 ## 🎓 Formación y Certificaciones  
 
-- **Tecnología en Desarrollo de Software - ITM**  
+- **Administración Tecnológica - ITM**  
 - **Certificaciones**:  
   - IBM Data Scientist Certificate  
   - Logistics Processes Coordination Technologist (SENA)  
