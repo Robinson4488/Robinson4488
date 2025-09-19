@@ -41,8 +41,7 @@ Actualmente me enfoco en el mundo **freelancer**, ofreciendo desarrollo de **apl
 - **Certificaciones**:  
   - IBM Data Scientist Certificate  
   - Logistics Processes Coordination Technologist (SENA)  
-  - From Beginner to Expert in React (Udemy)  
-  - Digital Entrepreneurship (SENA)  
+  - From Beginner to Expert in React (Udemy)   
 
 ---
 
